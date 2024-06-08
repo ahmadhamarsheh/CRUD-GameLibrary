@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GamesLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GamesLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\assets\\images\\games\\4fb3f830-07ac-495b-bb40-a379b6febfba.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\4fb3f830-07ac-495b-bb40-a379b6febfba.jpeg"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\assets\\images\\games\\923e74a8-8cf0-4ef3-a95e-1fcbb17792c8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\923e74a8-8cf0-4ef3-a95e-1fcbb17792c8.jpeg"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\assets\\images\\games\\ed85bfaf-3959-4d38-834a-ffd643ac1aa0.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\ed85bfaf-3959-4d38-834a-ffd643ac1aa0.jpg"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\js\\fileSizeValidator.js",
+      "PackagePath": "staticwebassets\\js\\fileSizeValidator.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\js\\game-index.js",
+      "PackagePath": "staticwebassets\\js\\game-index.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\js\\gameForm.js",
+      "PackagePath": "staticwebassets\\js\\gameForm.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\Users\\Ahmad\\C#\\FullStack\\C#\\DesignPatterns\\GamesLibrary\\GamesLibrary\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GamesLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GamesLibrary.props",
+      "PackagePath": "build\\GamesLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GamesLibrary.props",
+      "PackagePath": "buildMultiTargeting\\GamesLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GamesLibrary.props",
+      "PackagePath": "buildTransitive\\GamesLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
